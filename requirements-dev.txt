@@ -1,0 +1,3 @@
+-r requirements-test.txt
+parapy-run~=0.7.0
+parapy-webgui[reload]
